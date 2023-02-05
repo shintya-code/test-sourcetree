@@ -4,6 +4,9 @@ import 'package:qr_code_read/view/top_page.dart';
 
 import 'camera_page/select_nfc_camera.dart';
 
+
+//test_ここ変更入れた
+
 class Screen extends StatefulWidget {
   const Screen({Key? key}) : super(key: key);
 
