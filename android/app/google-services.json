@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "856826371897",
+    "project_id": "first-app-qrcode-reader",
+    "storage_bucket": "first-app-qrcode-reader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856826371897:android:085431aca0fe1309b112e8",
+        "android_client_info": {
+          "package_name": "com.example.qr_code_read"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856826371897-k1bl213jlefchevr9feoco2rhk5g5i1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHAXZEQHRI9UPdS0r6bVhl5WHS1ZnwGP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856826371897-k1bl213jlefchevr9feoco2rhk5g5i1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "856826371897-s9lgmc34ohcdju07jclgn3pl3me6kojg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firstApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
